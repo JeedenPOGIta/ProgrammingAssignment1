@@ -49,7 +49,26 @@ the output.
 ![image](https://github.com/user-attachments/assets/11f0bcc6-fc70-4258-b8a8-c0dcc66b7b47) <br><br>
 
 
-
 ## [PROBLEM 3 - Unpacking List Problem] <br>
-<h3> Description and thought process - to be added </h3>
+<h3> Description and thought process </h3><br><br>
+
+The unpacking list program is a program that "unpacks" a list of elements into three different groups: first, <br>
+middle, and last. In other terms, it separates the first and last elements from all of the elements in between. <br><br>
+
+![image](https://github.com/user-attachments/assets/1c173ae4-c863-42ec-b75c-73fa909f1853) <br><br>
+
+Since we can assign a variable name to each of the element's respective indexes, creating the program is easy. <br>
+all we have to do is assign a variable name for the first element, middle element, and last element. However, <br>
+We need the middle element variable name to encompass all the elements between the first and last. To achieve <br>
+this, we must put an asterisk (*) in front of the variable name. This asterisk essentially tells the variable <br>
+name to include all the elements in front of it, starting from its current index until another variable name <br>
+stops it, or there are no more elements to include. <br><br>
+
+![image](https://github.com/user-attachments/assets/1083ae89-0777-4f49-9242-b43d41d3c8b9) <br><br>
+
+And that's a wrap! This is the end of my repository on our programming assignment 1. If you have any feedback <br>
+tips and tricks, and suggestions to improve my coding efficiency; please do tell me! Thank you once again!
+
+
+
 
