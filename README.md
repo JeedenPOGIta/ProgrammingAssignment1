@@ -1,5 +1,5 @@
 ## [PROBLEM 1 - Alphabet Soup Problem] <br>
-<h3>Description and thought process - to be added</h3><br>
+<h3>Description and thought process</h3><br>
 The Alphabet Soup program is a program that lets the user input any string, and the program will sort the input <br>
 in alphabetical order. <br> <br>
 
