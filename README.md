@@ -26,7 +26,27 @@ Next is the ".strip()" command, which removes all the white spaces from the left
 
 
 ## [PROBLEM 2 - Emoticon Problem] <br>
-<h3>Description and thought process - to be added </h3>
+<h3>Description and thought process - to be added </h3><br>
+This emoticon program lets the user input any string and converts words into their corresponding emoticons if any <br>
+for instance, the word "smile" will be converted to ":)" in the output string. This test program covers four (4) <br>
+different emoticons, namely, smile, grin, sad, and mad. <br><br>
+
+To create this program, input from the user is first asked. The program will then split the string into different <br>
+elements using the ".split()" function. This function allows the program to split the words and put them in a list <br>
+so that each word can be checked individually later on in the program. <br><br>
+
+After splitting, the program must first have <br>
+a list of keys and values to refer to when a certain string matches with the condition to convert to an emoticon. <br>
+This is where a dictionary function can be used. Enclosed in curly braces are the "key" words and their corresponding <br>
+values as shown in the image. <br><br>
+
+![image](https://github.com/user-attachments/assets/ddf82812-48e5-4a94-8869-fd34113dd9cb) <br><br>
+
+Finally, before the output string, the program checks if any of the individual strings match with any of the keys <br>
+in the dictionary. To achieve this, the program runs a for loop through all the individual strings before displaying <br>
+the output. 
+
+![image](https://github.com/user-attachments/assets/11f0bcc6-fc70-4258-b8a8-c0dcc66b7b47) <br><br>
 
 
 
